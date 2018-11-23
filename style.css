@@ -1,0 +1,23 @@
+.content
+{
+    text-align:center;
+    margin-right: 30%;
+    margin-left: 35%;
+    margin-top: 15%;
+}
+
+body{
+    background-image: url("img1.jpg");
+    background-size: cover;
+    opacity: 30%;
+}
+.green 
+{
+    color: green;
+    
+}
+
+html
+{
+    height: 100%;
+}
